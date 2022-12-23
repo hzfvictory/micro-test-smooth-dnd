@@ -1,0 +1,19 @@
+#app.micro-app-environment {
+  .sidebar-container {
+    top: 48px;
+  }
+  .sidebar-logo-container {
+    display: none;
+  }
+  .navbar {
+    height: 30px;
+    .hamburger-container {
+      line-height: 30px;
+      height: 30px;
+    }
+    .app-breadcrumb.el-breadcrumb {
+      height: 30px;
+      line-height: 34px;
+    }
+  }
+}
